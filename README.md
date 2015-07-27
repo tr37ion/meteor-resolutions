@@ -9,7 +9,7 @@ Install the base project:
 
 clone this repo un your meteor project folder
 
-git clone https://github.com/tr37ion/meteor-resolutions.git ./
+    git clone https://github.com/tr37ion/meteor-resolutions.git ./
 
 and run the project with
 
