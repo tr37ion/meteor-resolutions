@@ -1,7 +1,7 @@
 # meteor-resolutions
 Just a Meteor example to explore its abilities.
 
-# Meteor Packages
+## Meteor Packages
 
 Install the base project:
 
@@ -17,15 +17,15 @@ and run the project with
 
 go to http://localhost:3000/
 
-## Packages to install
+### Packages to install
 * accounts-ui
 * accounts-passwords
 
-## Optional Packages
+### Optional Packages
 * accounts-github
 * accounts-facebook
 * accounts-twitter
 
-## Packages to remove
+### Packages to remove
 * insecure
 * autopublish
